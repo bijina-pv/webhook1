@@ -49,16 +49,12 @@ def makeWebhookResult(req):
     parameters = result.get("parameters")
     temp_speech=parameters.get("Static-Entity")
     print(temp_speech)
-    if temp_speech=="contact":
-	 contact_issue= parameters.get("Static-Entity")
-	 speech=data["query"][0][temp_speech][contact_issue]
-    else:
-	speech=data["query"][0][temp_speech]
+    speech=data["query"][0][temp_speech]
     
 
     return {
-        "speech": "hi",
-        "displayText": "test"
+        "speech": speech,
+        "displayText": speech
     }
 
 if __name__ == '__main__':
