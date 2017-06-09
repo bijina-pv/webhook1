@@ -58,7 +58,7 @@ def makeWebhookResult(req):
 
     return {
         "speech": "hi",
-        "displayText": speech
+        "displayText": "test"
     }
 
 if __name__ == '__main__':
