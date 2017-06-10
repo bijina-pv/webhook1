@@ -51,9 +51,9 @@ def makeWebhookResult(req):
     if temp_speech=="contact-query":
 	 contact_issue= parameters.get("Contact-Issues")
 	 speech=data["query"][0][temp_speech][contact_issue]
-    print(temp_speech)
     else:
 	speech=data["query"][0][temp_speech]
+    
     
 
     return {
