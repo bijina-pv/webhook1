@@ -47,7 +47,7 @@ def makeWebhookResult(req):
     action = req.get("result").get("action")
     result = req.get("result")
     parameters = result.get("parameters")
-    temp_speech=parameters.get("Parameters")
+    temp_speech=parameters.get("parameters")
     #if temp_speech=="contact-query":
 	 #contact_issue= parameters.get("Contact-Issues")
 	 #speech=data["query"][0][temp_speech][contact_issue]
