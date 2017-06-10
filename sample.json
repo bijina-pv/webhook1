@@ -2,13 +2,30 @@
 	"query": [
 
 		{
+			"Leave Types": "Sick, Casual and Earned",
+			"Avail Leave": "Flexi leave not avail for ILP trainees",
+			"How to apply for leave": "Need to get the approval from the tech and Biz Faculty. Once they approve, the Facilitation Team will check if the leave can be approved from HR. Upon the confirmation leave will be approved. Once the leave is approved the associate needs to apply for leave in Ultimatix and submit the leave request form.",
+			"What is Emergency Leave": "Personal Emergency leave (when you fall sick) and family emergency.",
+			"Whom to contact for leave": "Respective Faculties and the HR",
+			"Women helpline": "04712338100",
+			"TCS Safety Leader": "9249440406",
+			"Railway police": "9846200100",
+			"TCS medical emergency": "09995470741",
+			"TCS TVM Reception": "04716629400",
+			"Nearest Hospital": "TSE, Ojas, AJ & KIMS, CSI Mission Hospital",
+			"Doctor Avail time": "PP - 1.00 PM to 2.00 PM and CLC - 2.00 PM to 3.00 PM",
+			"Health Insurance": "For TCS, the health and wellbeing of all employees and their family is paramount.  Hence, TCS provides them with easy access to best-in-class medical facilities through a comprehensive Health Insurance Scheme",
+			"How to raise a claim": "To  raise a claim  goto Ultimatix->Global ESS-> Health and Wellness->TCS Health insurance portal",
+			"Reimbursement Time": "For  reimbursement It will take Six to Seven working days after the settlement process is completed, to get the reimbursement.",
+			"HIS Memebers": "For TCS, the health and wellbeing of all employees and their family is paramount.  Hence, TCS provides them with easy access to best-in-class medical facilities through a comprehensive Health Insurance Scheme.  Family in this context implies spouse, children, parents and parents-in-law only.",
+
 			"leave-query": "Leave formalities: First Need to get the approval from the tech and Biz Faculty. Once they approve,the Facilitation Team will check if the leave can be approved from HR. Upon the confirmation leave will be approved. Once the leave is approved the associate needs to apply for leave in Ultimatix and submit the leave request form. Leave types: Sick, Casual and Earned emergency leave(Personal Emergency leave(when you fall sick) and family emergency).",
 			"release-query": "One must complete all the mandatory trainings and feedback. if there is no access to the Mandatory trainings, Required to raise a ticket in Ultimatix (under Global help desk) to fix the issue.",
 			"HIS-query": "For TCS, the health and wellbeing of all employees and their family is paramount.  Hence, TCS provides them with easy access to best-in-class medical facilities through a comprehensive Health Insurance Scheme.  Family in this context implies spouse, children, parents and parents-in-law only.  TCS has tied up with the Insurance Company to offer a comprehensive Health Insurance Scheme (HIS) to its employees.  Insurance Company has in turn appointed a Third Party Administrator (TPA) to facilitate the claim processing, settlements and hospitalisation process for the employees and their beneficiaries. .  Group life insurance and HIS are or not .  HIS facilities avail from the date of joining . Link for adding new beneficiaries Ultimatix ->Global ESS->Health & Insurance .   Company will provide Rs.  6000/yr as domisciliary expense for a single person.  To  raise a claim  goto Ultimatix->Global ESS-> Health and Wellness->TCS Health insurance portal,  All the Original bills have to be submitted along with the claim form .  All the  bills&documents should be submitted within 90 days of Discharge .  For  reimbursement It will take Six to Seven working days after the settlement process is completed, to get the reimbursement.  Coverage amount: Rs 6000 /year for domiciliary expenses , Rs 2 Lakhs as sum insured for Hospitalization and 12 Lakhs as a family floater (also for hospitalization) .  Follow this link for more details : Ultimatix -> Learning & Collaboration->KNOWMAX ->My HR->India->Health Safety & Wellness->Health & Insurance .",
 			"baselocation-query": "Associates are mapped to business needs and promises given to our clients cannot not changed due to our TCS values",
 			"stream-query": "It will be difficult as you have already completed the the tech lounge.",
-			"Rules-query" : "Taking photos is not allowed in office ( only in front of Gym) ",
-			"others-query":"ILP DRESS CODE LINK :https://knowmax.ultimatix.net/sites/myhr1-cop/GlobalNewDress%20Code/TCS%20Global%20Guideline%20-%20Dress%20Code.pdf , MY ILP DOWNLOAD LINK : https://play.google.com/store/apps/details?id=com.ilp.ilpschedule , SCHEDULE URL : http://intvmsm01/schedule ",
+			"Rules-query": "Taking photos is not allowed in office ( only in front of Gym) ",
+			"others-query": "ILP DRESS CODE LINK :https://knowmax.ultimatix.net/sites/myhr1-cop/GlobalNewDress%20Code/TCS%20Global%20Guideline%20-%20Dress%20Code.pdf , MY ILP DOWNLOAD LINK : https://play.google.com/store/apps/details?id=com.ilp.ilpschedule , SCHEDULE URL : http://intvmsm01/schedule ",
 			"LAP-query": "Associates will start with BizSkill LAP first, then will continue with PD if the trainee clears the Biz, else will go for HR action.Associate are not able to take  leave during LAP , but Emergency leave during LAP(LAP date will be extended.)  LAP Duration CS LAP – 10 days, PD LAP– 10 days, Biz Skill LAP– 20 days ",
 			"contact-query": {
 
@@ -26,7 +43,7 @@
 				"Ultimatix": "Contact HR (Paul F/Sinu B) for more details",
 				"access": "Contact BMS team (Near PP Reception) for more details",
 				"Gdrive": "Contact IS Team for more details",
-				
+
 				"intranet": "Contact HR  for more details",
 				"ievolve": "Contact Digitization team for more details",
 				"print out": "Contact HR for more details",
@@ -35,22 +52,6 @@
 				"AC": "Contact  Reception for more details",
 				"Health and Environmental risk": "Contact HSE (Anjus Nair/Unnikrishnan) for more details"
 			}
-			"Leave Types": "Sick, Casual and Earned",
-			"Avail Leave": "Flexi leave not avail for ILP trainees",
-			"How to apply for leave": "Need to get the approval from the tech and Biz Faculty. Once they approve, the Facilitation Team will check if the leave can be approved from HR. Upon the confirmation leave will be approved. Once the leave is approved the associate needs to apply for leave in Ultimatix and submit the leave request form.",
-			"What is Emergency Leave": "Personal Emergency leave (when you fall sick) and family emergency.",
-			"Whom to contact for leave": "Respective Faculties and the HR",
-			"Women helpline": "04712338100",
-			"TCS Safety Leader": "9249440406",
-			"Railway police": "9846200100",
-			"TCS medical emergency": "09995470741",
-			"TCS TVM Reception": "04716629400",
-			"Nearest Hospital": "TSE, Ojas, AJ & KIMS, CSI Mission Hospital",
-			"Doctor Avail time": "PP - 1.00 PM to 2.00 PM and CLC - 2.00 PM to 3.00 PM",
-			"Health Insurance": "For TCS, the health and wellbeing of all employees and their family is paramount.  Hence, TCS provides them with easy access to best-in-class medical facilities through a comprehensive Health Insurance Scheme",
-			"How to raise a claim": "To  raise a claim  goto Ultimatix->Global ESS-> Health and Wellness->TCS Health insurance portal",
-			"Reimbursement Time": "For  reimbursement It will take Six to Seven working days after the settlement process is completed, to get the reimbursement.",
-			"HIS Memebers": "For TCS, the health and wellbeing of all employees and their family is paramount.  Hence, TCS provides them with easy access to best-in-class medical facilities through a comprehensive Health Insurance Scheme.  Family in this context implies spouse, children, parents and parents-in-law only."
 
 
 
